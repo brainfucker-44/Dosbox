@@ -210,4 +210,4 @@ DOSBox is available as a complete free version, meaning all features and updates
 Download DOSBox today and step back into the world of classic gaming! Enjoy your favorite DOS titles in their full glory with no limitations.
 
 ---
-**Last updated:** 2026-10-21 13:28:54 UTC
+**Last updated:** 2026-10-21 18:24:47 UTC
